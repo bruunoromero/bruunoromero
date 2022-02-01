@@ -3,10 +3,10 @@
 - 🔭 I’m currently working at @nubank
 - 👷‍♂️ Software Engineer working mostly on Backend and Architecture
 - 🌱 Frontend hobbyist (React, React Native and Flutter)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/brunobromero/)
 <!-- - 👯 I’m looking to collaborate on ... Vue.js -->
 <!-- - 🤔 I’m looking for help with ... React Server Components -->
 <!-- - 💬 Ask me about ... Anything -->
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/brunobromero/)
 <!-- - 📫 Also on YouTube: ... [YouTube](http://erik.video) -->
 <!-- - 😄 Pronouns: ... He/Him -->
 <!-- - ⚡ Fun fact: ... I am half Finnish -->
