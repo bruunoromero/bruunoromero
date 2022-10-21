@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working at @nubank
 - 👷‍♂️ Software Engineer working mostly on Backend and Architecture
-- 🌱 Frontend hobbyist (React, React Native and Flutter)
+- 🌱 Frontend hobbyist (React and React Native)
 - ♻️ I like compilers
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/brunobromero/)
 <!-- - 👯 I’m looking to collaborate on ... Vue.js -->
