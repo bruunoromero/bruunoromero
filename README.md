@@ -1,6 +1,6 @@
 ### My name is Bruno Romero and I'm a Senior Software Engineer! 👋
 
-- 🔭 I’m currently working at @brex
+- 🔭 I’m currently working @ brex
 - 👷‍♂️ Software Engineer working mostly on Backend and Architecture
 - 🌱 Frontend hobbyist (React and React Native)
 - ♻️ I like compilers
